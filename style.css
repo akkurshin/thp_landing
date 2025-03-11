@@ -33,6 +33,9 @@ body {
     object-fit: contain;
     /*margin-bottom: 20px;*/
     border: 3px solid #E93F70;
+    display: block; /* Делаем элемент блочным */
+    margin-left: auto; /* Центрирование по горизонтали */
+    margin-right: auto; /* Центрирование по горизонтали */
 }
 
 /* Название */
@@ -47,6 +50,9 @@ body {
     width: 200px; /* Ширина изображения */
     height: auto; /* Автоматическая высота для сохранения пропорций */
     margin-bottom: 10px;
+    display: block; /* Делаем элемент блочным */
+    margin-left: auto; /* Центрирование по горизонтали */
+    margin-right: auto; /* Центрирование по горизонтали */
 }
 
 /* Кнопки */
